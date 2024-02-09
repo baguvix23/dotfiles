@@ -1,5 +1,5 @@
 # Dotfiles
 
 - Configuration kitty
-- Configuration nvim 
-
+- Configuration nvim
+- Configuration picom
